@@ -37,7 +37,7 @@
     "@angular/compiler": "~7.0.0",
     "@angular/compiler-cli": "~7.0.0",
     "@angular/platform-server": "~7.0.0",
-    "@types/mocha": "^2.2.43",
+    "@types/mocha": "^5.2.6",
     "@types/node": "10.12.9",
     "chai": "^4.1.2",
     "mocha": "^3.5.3",
